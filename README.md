@@ -12,7 +12,7 @@
 
 💬 Ask me about...Nothing
 
-📫 How to reach me...
+📫 How to reach me...aryanthakuur639876@gmail.com
 
 😄 Pronouns...HE/Him
 
