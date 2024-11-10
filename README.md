@@ -14,9 +14,9 @@
 
 📫 How to reach me... aryanthakur639876@gmail.com  
 
-😄 Pronouns...HE/Him
+😄 Pronouns:- He/Him
 
-⚡ Fun fact when you start html it feel like biggest coder when you are enter B.tech then you realise you are nothing 
+⚡ Fun fact:- When you start html it feel like biggest coder when you are enter B.tech then you realise you are nothing 
 
 
 # Project Title :- FITNESS INFLUENCERS
