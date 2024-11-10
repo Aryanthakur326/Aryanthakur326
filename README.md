@@ -2,24 +2,24 @@
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...Computer
+👩‍💻 I'm currently working on:- Online Fitness Tracking System
 
-🧠 I'm currently learning... AIML
+🧠 I'm currently learning:- JAVA
 
-👯‍♀ I'm looking to collaborate on... various task
+👯‍♀ I'm looking to collaborate on... 
 
-🤔 I'm looking for help with... Small INternship
+🤔 I'm looking for help with... Small Internship
 
-💬 Ask me about...Nothing
+💬 Ask me about... Regarding Project
 
 📫 How to reach me... aryanthakur639876@gmail.com  
 
 😄 Pronouns...HE/Him
 
-⚡ Fun fact... Nothing FUnny
+⚡ Fun fact when you start html it feel like biggest coder when you are enter B.tech then you realise you are nothing 
 
 
-# Project Title
+# Project Title :- FITNESS INFLUENCERS
 
 A brief description of what this project does and who it's for
 
